@@ -1,2 +1,6 @@
 # job-portal-backend 
-# job-portal-backend
+#Technologies:
+Spring Boot
+Spring MVC
+MongoDB
+
